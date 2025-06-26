@@ -1,0 +1,8 @@
+__pycache__
+.venv/
+.env
+logs/*.log
+test.ipynb
+scratch_script.py
+logs/*.log
+.pytest_cache
