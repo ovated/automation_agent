@@ -32,8 +32,7 @@ Three major improvements can be made:
 3. I currently limit the token size of get_all_element tool to 10,000 but if I build a custom agent from scratch, I will have greater control over token truncation and manage inputs within a set token budget.
 
 ## Time spent
-I spent 2 days building this.I spent approximately 2 days building this agent.
-
+I spent approximately 2 days building this agent.
 
 ## Set up App
 
